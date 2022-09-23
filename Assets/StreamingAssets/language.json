@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": 20,
+      "readyToPlay": 20,
+      "pressContinue": 50,
+      "greatJob": 20,
+      "onePlusOne": 30,
+      "addScore": 10,
+      "save": 10,
+      "checkAnswer": 20
+    }
+  },
+  "en": {
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press to continue.",
+    "newGame": "New Game",
+    "continue": "Continue",
+    "autoSave": "...Auto Saving Complete",
+    "addScore": "Add to the Score",
+    "save": "Save",
+    "checkAnswer": "Check your answer"
+  }
+}
